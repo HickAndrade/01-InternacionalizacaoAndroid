@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="country_textSize">24sp</dimen>
+<dimen name="food_textSize">24sp</dimen>
+<dimen name="txt_textView">250dp</dimen>
+<dimen name="image_size">250dp</dimen>
+</resources>
